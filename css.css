@@ -1,0 +1,135 @@
+body {
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    
+  }
+.h1{
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+.buttons {
+    text-align: center;
+    padding-left: 43%;
+    float: left;
+    border: 1px solid rgb(0, 0, 0);
+    display: grid;
+    grid-template-columns: 130px 130px;
+
+    
+  }
+.button1{
+    text-align:center;
+    background-color: #66ff00;
+    border: none;
+    color: black;
+    padding: 46px 12px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+  .button1:hover {
+    background-color: #66ff0086; /* Green */
+    color: white;
+  }
+  
+.button2{
+    background-color: #ff0000;
+    border: none;
+    color: black;
+    padding: 46px 12px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+  .button2:hover {
+    background-color: #ff00007a; /* Green */
+    color: white;
+  }
+  
+.button3{
+    background-color: #0400ff;
+    border: none;
+    color: black;
+    padding: 46px 12px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+  .button3:hover {
+    background-color: #0400ff69; /* Green */
+    color: white;
+  }
+  
+.button4{
+    background-color: #fbff00;
+    border: none;
+    color: black;
+    padding: 46px 12px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+  .button4:hover {
+    background-color: #fbff005e; /* Green */
+    color: white;
+  }
+  
+.button5{
+    background-color: #f700ff;
+    border: none;
+    color: black;
+    padding: 46px 12px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+  .button5:hover {
+    background-color: #f700ff7c; /* Green */
+    color: white;
+  }
+  
+  .button6{
+    background-color: #ff7b00;
+    border: none;
+    color: black;
+    padding: 46px 12px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+  .button6:hover {
+    background-color: #ff7b0065; /* Green */
+    color: white;
+  }
+  
